@@ -9,12 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carlitomurta/jsnubank.git"
+    "url": "git+ssh://git@github.com/carlitomurta/jsnubank.git"
   },
   "keywords": [
-    "Nubank",
-    "API",
-    "Javascript"
+    "nubank",
+    "api",
+    "javascript",
+    "typescript"
   ],
   "author": "Carlito Murta",
   "license": "MIT",
